@@ -4,11 +4,7 @@
 
 `Funcaptcha challenger` is a free python library that provides a simple interface to solve FunCaptcha challenges.
 
-## Sponsors
-
-### [Capsolver](https://capsolver.com?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha_challenger)
-
-[![Capsolver](docs/capsolver.jpg)](https://capsolver.com?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha_challenger)
+Alternative, if my solution don't work, you can try [capsolver.com](https://www.capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha_challenger)
 
 [Capsolver.com](https://www.capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=funcaptcha_challenger)
 is an AI-powered service that specializes in solving various types of captchas automatically. It supports captchas such
